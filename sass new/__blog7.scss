@@ -1,0 +1,35 @@
+.blog7 {
+    background-image: url(../imgs/blog7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 65vh;
+
+    .blog7_texts {
+        text-align: center;
+        justify-content: space-between;
+    
+    }
+
+    .blog7_text1 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 53px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-top: 70px;
+    }
+
+    .blog7_text2 {
+        margin: 135px 420px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+}

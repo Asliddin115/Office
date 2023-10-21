@@ -1,0 +1,52 @@
+.blog6 {
+
+    .blog6_titles {
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .blog6_text1 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 53px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .blog6_text2 {
+        margin-top: 50px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+        text-align: center;
+        color: #999999;
+    }
+
+    .blog6_imgs {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px;
+    }
+
+    .blog6_btn {
+        margin: 63px 145px;
+        text-align: center;
+    }
+
+    .blog6_btn_text {
+        width: 200px;
+        height: 45px;
+        background: #4985FF;
+        box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+        border-radius: 30px;
+        color: #fff;
+        border: none;
+        outline: none;
+    }
+
+}

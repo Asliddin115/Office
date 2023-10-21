@@ -1,0 +1,32 @@
+.blog4 {
+    background-color: #181d7c;
+    height: 490px;
+    margin-top: 70px;
+
+    .blog4_texts {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .blog_4_text1 {
+        margin: 100px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 53px;
+        color: #FFFFFF;
+    }
+
+    .blog4_btn {
+        color: #FFFFFF;
+        margin-top: 120px;
+        width: 200px;
+        height: 45px;
+        background: #4985FF;
+        box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+        border-radius: 30px;
+        border: none;
+        outline: none;
+    }
+}
